@@ -1,4 +1,4 @@
-
+This repository contains a Power BI project focused on analyzing Walmart store sales data. The analysis is performed using Power BI Desktop, and the project files include both the PDF report and the PBIX file for easy replication and exploration.
 
 1. **Clone the Repository:**
    ```
