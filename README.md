@@ -1,6 +1,4 @@
-It seems you have provided a link to a GitHub repository named "Walmart-Store-Sales-Analysis" by Joshua Dada Mayowa. As a text-based AI, I don't have the ability to access external URLs or repositories, but I can guide you on how to use the provided files.
 
-Here are some steps you can follow:
 
 1. **Clone the Repository:**
    ```
